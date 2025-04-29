@@ -34,7 +34,7 @@ jobs:
     with:
       # (Required) Please insert the runner group for your project
       # Example: runner-group: 'innersource.prod.amr.dind'
-      runner-group: 'innersource.prod.amr.dind'
+      runner-group: 'sandbox.prod.amr.dind'
       # (Optional) Please insert the IAPM ID of the application here
       # If you have more than 1 IAPM ID, please separate them with a comma
       # If at least 1 ID has not been entered the auto-tagging feature will not work
