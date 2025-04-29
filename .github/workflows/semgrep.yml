@@ -30,7 +30,7 @@ on:
 
 jobs:
   Call-Workflow:
-    uses: intel-innersource/frameworks.actions.semgrep-static-code-scan/.github/workflows/semgrep.yml@v1.6.0
+    uses: intel-innersource/frameworks.actions.semgrep-static-code-scan/.github/workflows/semgrep.yml@main
     with:
       # (Required) Please insert the runner group for your project
       # Example: runner-group: 'innersource.prod.amr.dind'
